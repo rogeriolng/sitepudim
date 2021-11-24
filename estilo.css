@@ -79,8 +79,6 @@ nav li ul a:hover {
     background: saddlebrown;
 }
 
-/* Clearfix */
-
 .cf:after, .cf:before {
     content:"";
     display:table;
@@ -91,3 +89,42 @@ nav li ul a:hover {
 .cf {
     zoom:1;
 }​
+
+img{
+    position: relative;
+    top: 10px;
+}
+
+div.pudimhome{
+    text-align: center;
+    position: relative; 
+    top: 50px
+}
+
+h1.titulohistoria{
+    width:500px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative; 
+    top: 50px
+
+}
+
+h1{
+    width:500px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative; 
+    top: 50px
+}
+p.paragrafo {
+    text-align: justify-all;
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
