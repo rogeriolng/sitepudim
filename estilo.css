@@ -92,13 +92,15 @@ nav li ul a:hover {
 
 img{
     position: relative;
-    top: 10px;
+    top: 10%;
+    
 }
 
 div.fotospudim{
     text-align: center;
     position: relative; 
-    top: 50px
+    top: 50px;
+    
 }
 
 h1.titulohistoria{
